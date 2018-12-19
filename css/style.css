@@ -39,7 +39,7 @@ main {
 .textcontainer {
   max-width: 840px;
   margin: auto;
-  padding: .1em;
+  padding: .5em;
   /* text-align: center; */
 }
 
